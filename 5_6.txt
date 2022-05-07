@@ -1,0 +1,3 @@
+Math: 100(lec) 80(pr) 30(lab)
+Philosophy: 50(lec) - -
+Archery: 20(lec) 90(pr) -
